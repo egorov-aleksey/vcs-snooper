@@ -1,1 +1,1 @@
-# vcsSnooper
+# vcs-snooper
